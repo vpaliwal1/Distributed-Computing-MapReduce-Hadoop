@@ -1,1 +1,9 @@
 
+4 Matrix Multiplication
+In the 4 MATRIX folder you will nd:
+1. A.txt: A matrix of 1000 rows and 50 columns
+2. B.txt: A matrix of 50 rows and 2000 columns
+3. C.txt: Dot product of A and B
+4.1 TASK 8: Matrix dot product
+Implement the matrix dot product in MapReduce. You can use the provided
+matrices to validate your code. The les can be loaded using numpy.
