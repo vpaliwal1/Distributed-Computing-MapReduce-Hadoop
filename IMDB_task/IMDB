@@ -1,1 +1,16 @@
-
+1 IMDB
+In the 1 IMDB folder you will nd:
+1. title.basics.tsv: Basic information on movies, tv-shows and shorts from
+IMDB5. Parameters include: [tconst titleType primaryTitle originalTitle
+isAdult startYear endYear runtimeMinutes genres]
+1.1 TASK 1: Find the 50 most common keywords for all
+movies and shorts
+For all entities for the type movie and short, nd the top 50 most common
+keywords used in the primary titles using MapReduce. Try to avoid auxiliary
+verbs, prepositions, articles and conjunctions as keywords. You can use libraries
+like NLTK to help you with the latter part.
+1.2 TASK 2: Top 15 keywords for each movie genre
+For each possible genre of the type movie (this excludes tv-shows, etc...) nd
+the top 15 most common keywords within their primary titles using MapReduce.
+Try to avoid auxiliary verbs, prepositions, articles and conjunctions as keywords.
+You can use libraries like NLTK to help you with the latter part.
