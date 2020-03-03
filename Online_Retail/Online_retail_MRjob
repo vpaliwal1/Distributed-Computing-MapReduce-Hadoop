@@ -1,1 +1,8 @@
-
+2 Online Retail
+In the 2 RETAIL folder you will nd the retail sales of one individual company
+for two years. Original le can be found on the archive of ICS UCI6
+1. retail0910.csv: CSV dataset of retail sales for 2009-2010. Parameters
+include: [Invoice, StockCode, Description, Quantity, InvoiceDate, Price,
+Customer ID,Country]
+2. retail1011.csv: CSV dataset of retail sales for 2010-2011. Parameters
+include: [Invoice, StockCode, Description, Quantity, InvoiceDate, Price,Customer ID,Country].
