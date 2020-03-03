@@ -1,1 +1,15 @@
 
+3 Similar paper recommendations
+In the 3 TEXT-SIMILARITY folder you will nd:
+1. arxivData.json: A JSON archive of meta-data on 20.000 scientic papers
+on Arxiv
+3.1 TASK 5: Jaccard Similarity Coecient
+Given a random paper summary nd the paper with the closest Jaccard Distance
+[1]. You will have to implement the Jaccard Distance function yourself, if you
+rely on an external library purely for this function, points will be deducted.
+3.2 TASK 6: Cosine Similarity
+Given a random paper summary nd the paper with the highest Cosine Similarity
+score [1]. You will have to implement the Cosine Similarity function yourself
+for text, if you rely on an external library purely for this function, points will
+be deducted. In order to vectorize your texts you can mak euse of TF-IDF,
+Word2Vec, Bag of Words any other option that will allow you to convert text to vectors.
